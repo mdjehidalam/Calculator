@@ -77,3 +77,14 @@ button:hover{
     
     
 }
+footer {
+    position: fixed;
+    bottom: 10px;
+    /* 10px above bottom of viewport */
+    width: 100%;
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    
+}
